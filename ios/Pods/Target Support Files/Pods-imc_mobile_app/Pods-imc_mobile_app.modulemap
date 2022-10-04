@@ -1,0 +1,6 @@
+module Pods_imc_mobile_app {
+  umbrella header "Pods-imc_mobile_app-umbrella.h"
+
+  export *
+  module * { export * }
+}
